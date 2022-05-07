@@ -1,0 +1,31 @@
+.MainPage {
+    background-color: #e4f38d;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.MainPage nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.MainPage nav ul {
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
+.MainPage nav ul li {
+    margin-right: 10px;
+}
+
+.mainBlock {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    display: flex;
+}
